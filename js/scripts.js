@@ -13,7 +13,7 @@ window.onload = function () {
       document.body.style.backgroundColor = "#FFF";
       return "Have a nice day 🌞"};
     if (current >= 19 && current < 22) {
-      document.body.style.backgroundColor = "#1C1C1E";
+      document.body.style.backgroundColor = "#171c28";
       return "Have a nice evening 🌙"};
     if (current >= 22 || current < 5){ 
       document.body.style.backgroundColor = "#171c28";
