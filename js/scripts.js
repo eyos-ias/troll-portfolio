@@ -22,6 +22,7 @@ window.onload = function () {
     '<a target="_blank" href="https://twitter.com/eyos_ias">twitter.com/eyos_ias</a><br><a target="_blank" href="https://github.com/eyos-ias">github.com/eyos-ias</a>',
     getCurrentTime(),
     "👀 E.",
+    "P.S. My main personal website is under construction.",
   ];
 
   var getFontSize = function () {
