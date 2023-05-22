@@ -25,7 +25,6 @@ window.onload = function () {
     "I'm Eyos",
     "I make stuff with the help of colorful letters 💻 (I try)",
     'I\'m currently accepting freelance work.<br> You can contact me via <a href="https://t.me/eyos_ias">telegram</a>',
-    '<a target="_blank" href="https://twitter.com/eyos_ias">twitter.com/eyos_ias</a><br><a target="_blank" href="https://github.com/eyos-ias">github.com/eyos-ias</a>',
     getCurrentTime(),
     "P.S. My main personal website is under construction.",
   ];
