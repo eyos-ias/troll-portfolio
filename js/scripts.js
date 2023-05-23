@@ -11,13 +11,16 @@ window.onload = function () {
     var current = hours + minutes * 0.01;
     if (current >= 5 && current < 19) {
       document.body.style.backgroundColor = "#FFF";
-      return "Have a nice day 🌞"};
+      return "Have a nice day ☀️";
+    }
     if (current >= 19 && current < 22) {
       document.body.style.backgroundColor = "#171c28";
-      return "Have a nice evening 🌙"};
-    if (current >= 22 || current < 5){ 
+      return "Have a nice evening 🌙";
+    }
+    if (current >= 22 || current < 5) {
       document.body.style.backgroundColor = "#171c28";
-      return "Have a good night 🛏"};
+      return "Have a good night 🛏";
+    }
   };
 
   var messages = [
