@@ -29,7 +29,7 @@ window.onload = function () {
     "I make stuff with the help of colorful letters 💻 (I try)",
     'I\'m currently accepting freelance work.<br> You can contact me via <a href="https://t.me/eyos_ias">telegram</a>',
     getCurrentTime(),
-    "P.S. My main personal website is under construction.",
+    "P.S. My main site is done, will host it on Oct 14.",
   ];
 
   var getFontSize = function () {
